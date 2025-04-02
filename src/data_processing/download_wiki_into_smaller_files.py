@@ -3,7 +3,7 @@ import os
 
 # === CONFIGURATION ===
 SAVE_DIR = "/home/lenos/Desktop/Document embedding/data"
-NUM_FILES = 10
+NUM_FILES = 30
 FILE_PREFIX = "wiki_chunk"  # files like wiki_chunk_0.parquet, wiki_chunk_1.parquet
 
 # Ensure the save directory exists
